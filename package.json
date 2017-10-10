@@ -1,0 +1,33 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront utilizing both node and MySQL database.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "num-ber": "^0.0.2",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkruel8100/Bamazon.git"
+  },
+  "keywords": [
+    "CLI",
+    "node",
+    "MySQL",
+    "Bamazon",
+    "Amazon",
+    "app"
+  ],
+  "author": "Kimberly Kruel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkruel8100/Bamazon/issues"
+  },
+  "homepage": "https://github.com/kkruel8100/Bamazon#readme"
+}

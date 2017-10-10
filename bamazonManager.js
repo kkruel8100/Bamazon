@@ -1,4 +1,4 @@
-var keys = require("./keys.js");
+lvar keys = require("./keys.js");
 
 var mysql = require("mysql");
 var inquirer = require("inquirer");
