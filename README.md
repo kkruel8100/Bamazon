@@ -143,5 +143,8 @@ The stock levels are updated.  Below are before and after stock levels for the o
 ![Image of Inventory After](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAdd4DB.PNG)
 
   **After**
+
 ![Image of Successful Update](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAddNewDB.PNG)
+
+
 
