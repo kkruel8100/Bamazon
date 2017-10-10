@@ -77,3 +77,69 @@ The stock levels are updated.  Below are before and after stock levels for the o
 ## Manager View
 
 ### The entry point is bamazonManager.js from the node command line.
+
+1.  Starting the app from the command line.
+
+![Image of Manager Entry](https://github.com/kkruel8100/Bamazon/blob/master/images/entryManager.PNG)
+
+2.  The manager is given four options.
+
+  2a. Option View Products for Sale. This displays all items in inventory with a quantity greater than zero.  
+
+![Image of Products for Sale](https://github.com/kkruel8100/Bamazon/blob/master/images/managerViewProductsForSale.PNG)
+
+  2b. Option View Products with Low Inventory. This displays all items with quantities below 5.
+
+![Image of Products with Low Quantity](https://github.com/kkruel8100/Bamazon/blob/master/images/managerViewLowQuantity.PNG)
+
+  2c. Option Add to Inventory. This displays all items listed in the database. It prompts the manager to select the item they wish to add stock levels.
+
+![Image of Select Product to Add](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAdd1.PNG)
+
+  Manager is then prompted for quantity to add.  The app adds the inventory to the current inventory levels.
+
+![Image of Quantity to Add](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAdd2.PNG)
+
+  Below are screenshots of the inventory before and after the inventory stock addition.
+
+  **Before**
+
+![Image of Inventory Before](https://github.com/kkruel8100/Bamazon/blob/master/images/databaseUpdate.PNG)
+
+  **After**
+
+![Image of Inventory After](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAdd4DB.PNG)
+
+  The manager is then displayed that the product was successfully updated.
+
+![Image of Successful Update](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAdd3.PNG)
+
+  2d. Option Add New Inventory.  Manager is prompted for the name of the product.
+
+![Image of Product Add](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAddNew1.PNG)
+
+  The manager is prompted to enter in a department name for the product.
+
+![Image of Product Add](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAddNew2.PNG)
+
+  The manager is prompted to enter in a sales price.
+
+![Image of Product Add](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAddNew3.PNG)
+
+  The manager is prompted to enter a quantity.
+
+![Image of Successful Update](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAddNew4.PNG)
+
+  The manager is then displayed that the product was successfully added to the database.
+
+![Image of Successful Update](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAddNew5.PNG)
+
+  Below are screenshots of the inventory before and after the new product is added.
+
+  **Before**
+
+![Image of Inventory After](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAdd4DB.PNG)
+
+  **After**
+![Image of Successful Update](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAddNewDB.PNG)
+
