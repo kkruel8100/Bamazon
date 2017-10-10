@@ -18,7 +18,7 @@ The app requires MySQL, Inquirer, and Num-ber npm packages.
 
 ### The entry point is bamazonManager.js from the node command line.
 
-![Image of Schema](https://github.com/kkruel8100/Bamazon/images/Schema.png)
+![Image of Schema](https://github.com/kkruel8100/Bamazon/blob/master/images/Schema.png)
 
 
-![Image of Mock Data](https://github.com/kkruel8100/Bamazon/images/MockData.png)
+![Image of Mock Data]https://github.com/kkruel8100/Bamazon/blob/master/images/MockData.PNG
