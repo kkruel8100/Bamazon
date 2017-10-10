@@ -53,7 +53,7 @@ This is the success data population of the database in MySQL:
 ![Image of Customer Success](https://github.com/kkruel8100/Bamazon/blob/master/images/customerOrderSuccessNext.PNG)
 
 
-  4a. The stock levels are updated.  Below are before and after stock levels for the order.
+The stock levels are updated.  Below are before and after stock levels for the order.
 
   **Before**
 
@@ -61,14 +61,14 @@ This is the success data population of the database in MySQL:
 
   **After**
 
-![Image of Customer Success](https://github.com/kkruel8100/Bamazon/blob/master/images/databaseAfter.PNG)
+![Image of Customer Success](https://github.com/kkruel8100/Bamazon/blob/master/images/databaseUpdate.PNG)
 
 
 5.  If the stock levels are insufficient, the customer is notified that the order was unable to be fulfilled and they are asked if they wish to shop again. 
 
 ![Image of Customer Reject](https://github.com/kkruel8100/Bamazon/blob/master/images/customerOrderRejectNext.PNG)
 
-*Note the image of inventory in 4a shows that quantities were not sufficient.*
+*Note the image of inventory in 4 shows that quantities were not sufficient.*
 
 6.  If the customer chooses to not shop again, they are displayed the message to please come again.
 
@@ -77,8 +77,3 @@ This is the success data population of the database in MySQL:
 ## Manager View
 
 ### The entry point is bamazonManager.js from the node command line.
-
-![Image of Schema](https://github.com/kkruel8100/Bamazon/blob/master/images/Schema.PNG)
-
-
-![Image of Mock Data](https://github.com/kkruel8100/Bamazon/blob/master/images/MockData.PNG)
