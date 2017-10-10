@@ -16,7 +16,7 @@ If you want to view the video tutorial, please visit <a href="https://youtu.be/V
 
 This is the coding for the setup of the database in MySQL:
 
-![Image of Schema1](https://github.com/kkruel8100/Bamazon/blob/master/images/schema1.PNG)
+![Image of Schema1](images/schema1.PNG)
 
 This is the success of the setup of the database.
 
