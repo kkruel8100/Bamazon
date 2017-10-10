@@ -8,7 +8,7 @@ This is an Amazon-like storefront utilizing node and MySQL database. The app is 
 
 The app requires MySQL, Inquirer, and Num-ber npm packages.
 
-If you want to view the video tutorial, please visit {::nomarkdown} <a href="https://youtu.be/VSXz0Azv-u4" target="_blank">YouTube</a>{:/}.
+If you want to view the video tutorial, please visit <a href="https://youtu.be/VSXz0Azv-u4" target="_blank">YouTube</a>.
 
 ## Database Setup and Population
 
