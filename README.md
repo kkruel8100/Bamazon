@@ -84,21 +84,23 @@ The stock levels are updated.  Below are before and after stock levels for the o
 
 2.  The manager is given four options.
 
-  2a. Option View Products for Sale. This displays all items in inventory with a quantity greater than zero.  
+  * Option: View Products for Sale. This displays all items in inventory with a quantity greater than zero.  
 
 ![Image of Products for Sale](https://github.com/kkruel8100/Bamazon/blob/master/images/managerViewProductsForSale.PNG)
 
-  2b. Option View Products with Low Inventory. This displays all items with quantities below 5.
+  * Option: View Products with Low Inventory. This displays all items with quantities below 5.
 
 ![Image of Products with Low Quantity](https://github.com/kkruel8100/Bamazon/blob/master/images/managerViewLowQuantity.PNG)
 
-  2c. Option Add to Inventory. This displays all items listed in the database. It prompts the manager to select the item they wish to add stock levels.
+  * Option: Add to Inventory. This displays all items listed in the database. It prompts the manager to select the item they wish to add stock levels.
 
 ![Image of Select Product to Add](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAdd1.PNG)
 
   Manager is then prompted for quantity to add.  The app adds the inventory to the current inventory levels.
 
 ![Image of Quantity to Add](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAdd2.PNG)
+
+![Image of Quantity Added](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAdd5.PNG)
 
   Below are screenshots of the inventory before and after the inventory stock addition.
 
@@ -114,7 +116,7 @@ The stock levels are updated.  Below are before and after stock levels for the o
 
 ![Image of Successful Update](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAdd3.PNG)
 
-  2d. Option Add New Inventory.  Manager is prompted for the name of the product.
+  * Option: Add New Inventory.  Manager is prompted for the name of the product.
 
 ![Image of Product Add](https://github.com/kkruel8100/Bamazon/blob/master/images/managerAddNew1.PNG)
 
