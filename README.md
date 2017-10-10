@@ -52,15 +52,17 @@ This is the success data population of the database in MySQL:
 
 ![Image of Customer Success](https://github.com/kkruel8100/Bamazon/blob/master/images/customerOrderSuccessNext.PNG)
 
-	1. The stock levels are updated.  Below are before and after stock levels for the order.
 
-	Before:
+  4a. The stock levels are updated.  Below are before and after stock levels for the order.
 
-	![Image of Database Start](https://github.com/kkruel8100/Bamazon/blob/master/images/databaseStart.PNG)
+  **Before**
 
-	After:
+![Image of Customer Success](https://github.com/kkruel8100/Bamazon/blob/master/images/databaseStart.PNG)
 
-	![Image of Database After](https://github.com/kkruel8100/Bamazon/blob/master/images/databaseAfter.PNG)
+  **After**
+
+![Image of Customer Success](https://github.com/kkruel8100/Bamazon/blob/master/images/databaseAfter.PNG)
+
 
 5.  If the stock levels are insufficient, the customer is notified that the order was unable to be fulfilled and they are asked if they wish to shop again. 
 
