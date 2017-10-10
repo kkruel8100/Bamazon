@@ -48,7 +48,7 @@ This is the success data population of the database in MySQL:
 
 ![Image of Customer Quantity](https://github.com/kkruel8100/Bamazon/blob/master/images/customerRequestedQuantity.PNG)
 
-4.  The requested quantity is compared to the stock level on-hand.  If sufficient stock, the customer is given the order total and prompted if they wish to shop again.
+4.  The requested quantity is compared to the stock level on-hand.  If sufficient stock, the customer is given the order total and prompted if they wish to shop again. The order total is calculated by multiplying the unit price of the item by the quantity requested.
 
 ![Image of Customer Success](https://github.com/kkruel8100/Bamazon/blob/master/images/customerOrderSuccessNext.PNG)
 
